@@ -27,5 +27,9 @@ Develop SQL-based analytics to deliver detailed insights into:
 
   
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+--
 
+## 🌟 About Me
+
+Hi there! I'm **PRAKASH VIVEK**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
 
